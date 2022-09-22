@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.0"
+   width="289.875"
+   height="264.125"
+   id="svg2501"
+   style="display:inline"
+   sodipodi:docname="jolly_wrencher_eyes_caret_mask.svg"
+   inkscape:version="1.1.2 (1:1.1+202202050852+0a00cf5339)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="m -401.26953,-81.119141 c -1.01093,0.0079 -2.00793,0.505551 -2.60453,1.324564 -3.82059,4.987954 -7.64206,9.975248 -11.4621,14.963614 -0.35162,0.467844 -0.32783,1.165018 0.0432,1.614166 0.18317,0.209667 0.4153,0.368131 0.62429,0.550584 0.22625,0.181994 0.44128,0.378779 0.67699,0.548312 0.48824,0.320489 1.199,0.210466 1.56562,-0.244539 3.10582,-3.90272 6.20971,-7.806999 9.31538,-11.709841 0.4623,-0.579934 1.24711,-0.87035 1.97598,-0.739617 0.64883,0.103029 1.2256,0.537098 1.52023,1.1221 2.13505,3.798137 4.26906,7.596865 6.40476,11.394633 0.30315,0.525414 0.97811,0.788406 1.55765,0.61266 0.27072,-0.09145 0.51899,-0.237157 0.77822,-0.356199 0.33944,-0.168962 0.68572,-0.325053 1.02037,-0.503032 0.40974,-0.249012 0.59204,-0.801389 0.41192,-1.245526 -0.0955,-0.223487 -0.24677,-0.417272 -0.37032,-0.625698 -3.24695,-5.139691 -6.4939,-10.279381 -9.74085,-15.419071 -0.30126,-0.689715 -0.97453,-1.183254 -1.7168,-1.28711 z"
+     id="path1056" />
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.722196"
+     inkscape:cx="-433.65724"
+     inkscape:cy="-139.40951"
+     inkscape:window-width="1878"
+     inkscape:window-height="1051"
+     inkscape:window-x="42"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2501" />
+  <metadata
+     id="metadata3123">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2504">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect8443"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect979"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <filter
+       id="filter5076"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.15793104"
+         id="feGaussianBlur5078" />
+    </filter>
+    <filter
+       id="filter5084"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.14620583"
+         id="feGaussianBlur5086" />
+    </filter>
+    <filter
+       id="filter5092"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.14620583"
+         id="feGaussianBlur5094" />
+    </filter>
+    <filter
+       id="filter5096"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.14620583"
+         id="feGaussianBlur5098" />
+    </filter>
+    <filter
+       id="filter5104"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.11379095"
+         id="feGaussianBlur5106" />
+    </filter>
+    <filter
+       id="filter5112"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.23733402"
+         id="feGaussianBlur5114" />
+    </filter>
+    <filter
+       id="filter5120"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.23733402"
+         id="feGaussianBlur5122" />
+    </filter>
+    <filter
+       id="filter5144"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.37132122"
+         id="feGaussianBlur5146" />
+    </filter>
+    <filter
+       id="filter5158"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.37132122"
+         id="feGaussianBlur5160" />
+    </filter>
+    <filter
+       id="filter5205"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.34722241"
+         id="feGaussianBlur5207" />
+    </filter>
+    <filter
+       id="filter5224"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.41331904"
+         id="feGaussianBlur5226" />
+    </filter>
+    <filter
+       id="filter5232"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.34722241"
+         id="feGaussianBlur5234" />
+    </filter>
+    <filter
+       id="filter5240"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.34273968"
+         id="feGaussianBlur5242" />
+    </filter>
+    <filter
+       id="filter5264"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.31453825"
+         id="feGaussianBlur5266" />
+    </filter>
+    <filter
+       id="filter5277"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.3145382"
+         id="feGaussianBlur5279" />
+    </filter>
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path1632,0,1"
+       id="path-effect1652" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path1632,0,1|#path1628,0,1|#path1056,0,1"
+       id="path-effect1888" />
+  </defs>
+</svg>

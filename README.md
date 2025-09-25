@@ -44,3 +44,7 @@ Of course, you can also upgrade to ENIG, I'm not your mom or something.
 - Layer count: 2
 - Recommended thickness: whatever, maybe not 0.8mm? I ordered 1.2mm IIRC
 - Recommended silkscreen color: black
+
+## Credits
+
+The wrencher SVG design is from https://github.com/n1/Wrencher-Display - thanks to @n1 for sharing it!
